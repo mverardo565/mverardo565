@@ -1,4 +1,5 @@
-## Hi there 👋
+# Matías Nicolás Verardo
+Estudiante de Ingeniería Electrónica - Universidad Tecnologica Naciona - Facultad Regional Haedo
 
 <!--
 **mverardo565/mverardo565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
